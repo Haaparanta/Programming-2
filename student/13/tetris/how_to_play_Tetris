@@ -1,0 +1,37 @@
+name: Vesa Haaparanta
+email: vesa.haaparanta@tuni.fi
+student id: 290336
+
+from wikipedia https://en.wikipedia.org/wiki/Tetris date 11.05.2020
+"Tetris is primarily composed of a field of play in which pieces of different geometric forms,
+called "tetriminos", descend from the top of the field.
+During this descent, the player can move the pieces laterally and rotate them until they touch the bottom
+of the field or land on a piece that had been placed before it.
+The player can neither slow down the falling pieces nor stop them, but can accelerate them in most versions.
+The objective of the game is to use the pieces to create as many horizontal lines of blocks as possible.
+When a line is completed, it disappears, and the blocks placed above fall one rank.
+Completing lines grants points, and accumulating a certain number of points moves the player up a level,
+which increases the number of points granted per completed line.
+In most versions, the speed of the falling pieces increases with each level,
+leaving the player with less time to think about the placement.
+The player can clear multiple lines at once, which can earn bonus points in some versions.
+It is possible to complete up to four lines simultaneously with the use of the I-shaped tetrimino;
+this move is called a "Tetris", and is the basis of the game's title.
+If the player cannot make the blocks disappear quickly enough, the field will start to fill,
+and when the pieces reach the top of the field and prevent the arrival of additional pieces, the game ends.
+At the end of each game, the player receives a score based on the number of lines that have been completed.
+The game never ends with the player's victory;
+the player can only complete as many lines as possible before an inevitable loss."
+
+Above there is some univesral rules of tetris.
+In my version too tetriminos are made from 4 blocks and they are coming down accelerating speed.
+if you get full-line, line gets destroyed and you get some points 100 points for each line and if you get tetris additional 400 points.
+You can see your score at right top corner where there is QLCD screen and below you can see gametime. Below score and time screen there
+is lot of buttons some of them is disabled so you can't make mistakes. There is also radio button which is labeled crazy mode, it is special mode
+where there is gravity pulling blocks down after every turn. You can also name it cheat or easy mode.
+You can move teterimino laterally with a and d. Also you can drop tetrimino down as possible with key S.
+You also can move tetriminos while they are down until next one start dropping. You can also see next tetrimino at top left corner.
+I have implemented all seven tetrominos with diffrent colors. Tetriminos stop berore they are top of other tetriminos or borders.
+You lose when you can't move tetrominos any more and there is label come visible that says game over.
+
+Also there is 2 attempts with very diffrent ways to make tetriminos rotate, but they are still in WIP.
